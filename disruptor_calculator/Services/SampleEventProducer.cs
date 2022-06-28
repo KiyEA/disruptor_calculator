@@ -2,7 +2,6 @@
 using System.Runtime.InteropServices;
 using System.Text.Json;
 using Disruptor;
-using disruptor_calculator.Enums;
 using disruptor_calculator.Models;
 
 namespace disruptor_calculator.Services
